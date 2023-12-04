@@ -43,4 +43,5 @@ function updateServerTable() {
   }
 }
 
+//
 alert("From my understanding, the tip-pool assignment is optional. If so, I will come back to it when I've worked more with code that isn't mine.")
